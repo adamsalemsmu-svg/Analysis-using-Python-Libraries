@@ -1,7 +1,1 @@
-pandas
-numpy
-scikit-learn
-pandasql
-httpx
-python-dotenv
-tabulate
+# Placeholder for requirements.txt
